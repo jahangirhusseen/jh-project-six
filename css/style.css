@@ -1,0 +1,10 @@
+*font-family {
+  font-family: "Inter", sans-serif;
+}
+.font-geist {
+  font-family: "Geist", sans-serif;
+}
+.active {
+  background: #15803d;
+  color: #fff;
+}
